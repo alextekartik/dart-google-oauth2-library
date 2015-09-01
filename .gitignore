@@ -7,3 +7,5 @@ lib/docs
 *.dart.js
 *.dart.js.*
 *.dart.*.js
+.pub
+.packages
